@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi there, I'm David Weid II
 
-<!--
-**DavidWeid/DavidWeid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+I'm a **Senior Front-End Web Developer** with 6+ years of experience dedicated to building and optimizing robust, high-performance digital experiences. My specialization lies in crafting accessible, user-centric websites, with a strong focus on static-rendered architectures. I thrive on transforming complex concepts and design mockups into seamless, intuitive web solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### My Toolkit 🛠️
+
+Here are some of the technologies and tools I frequently work with:
+
+* **Languages:** JavaScript (ESNext), TypeScript, HTML, CSS
+* **Frameworks & Libraries:** AstroJS, HugoSSG, 11ty
+* **Styling:** TailwindCSS, CSS Modules, Styled Components
+* **CMS:** DatoCMS
+* **Search:** Typesense, Algolia
+* **Deployment & Cloud:** AWS Amplify, GitHub Pages, GitLab
+* **Version Control:** Git, GitHub
+
+---
+
+### What I'm Passionate About
+
+Beyond the code, I'm deeply committed to **web performance, accessibility, and maintainability**. I believe in creating products that are not just visually appealing, but also inclusive, efficient, and sustainable for the long term. I'm a calm, collaborative communicator who values **diversity** in teams and enjoys leading projects, mentoring teammates, and leading by example to achieve significant improvements in team goals and missions. My own aim is to always deliver high-quality, impactful web solutions that truly serve their users.
+
+---
+
+### Let's Connect! 🤝
+
+I'm always open to discussing new projects, collaborating, or sharing insights. Feel free to reach out!
+
+* **LinkedIn:** https://www.linkedin.com/in/david-weid/
+* **Portfolio:** https://davidweid.github.io/davids-place/
+* **Email:** david.weid.2@gmail.com
+* **PDF Resume:** [david-weid-resume-2025.pdf](https://github.com/user-attachments/files/21084624/david-weid-resume-2025.pdf)
