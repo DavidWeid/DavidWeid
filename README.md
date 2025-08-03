@@ -31,6 +31,6 @@ Beyond the code, I'm deeply committed to **web performance, accessibility, and m
 I'm always open to discussing new projects, collaborating, or sharing insights. Feel free to reach out!
 
 * **LinkedIn:** https://www.linkedin.com/in/david-weid/
-* **Portfolio:** https://davidweid.github.io/davids-place/
+* **Portfolio:** https://davids-place-portfolio.web.app/
 * **Email:** david.weid.2@gmail.com
 * **PDF Resume:** [david-weid-resume-2025.pdf](https://github.com/user-attachments/files/21084624/david-weid-resume-2025.pdf)
