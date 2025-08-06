@@ -34,3 +34,7 @@ I'm always open to discussing new projects, collaborating, or sharing insights. 
 * **Portfolio:** https://davids-place-portfolio.web.app/
 * **Email:** david.weid.2@gmail.com
 * **PDF Resume:** [david-weid-resume-2025.pdf](https://github.com/user-attachments/files/21084624/david-weid-resume-2025.pdf)
+
+---
+
+Header image above generated from [this Github Profile Header Generator](https://leviarista.github.io/github-profile-header-generator/)
