@@ -33,7 +33,7 @@ I'm always open to discussing new projects, collaborating, or sharing insights. 
 * **LinkedIn:** https://www.linkedin.com/in/david-weid/
 * **Portfolio:** https://davids-place-portfolio.web.app/
 * **Email:** david.weid.2@gmail.com
-* **PDF Resume:** [david-weid-resume-2025.pdf](https://github.com/user-attachments/files/21084624/david-weid-resume-2025.pdf)
+* **PDF Resume:** [david-weid-resume-2025.pdf](https://github.com/user-attachments/files/21803850/david-weid-resume-2025.pdf)
 
 ---
 
