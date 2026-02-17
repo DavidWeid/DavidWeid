@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a **Senior Front-End Web Developer** with 6+ years of experience dedicated to building and optimizing robust, high-performance digital experiences. My specialization lies in crafting accessible, user-centric websites, with a strong focus on static-rendered architectures. I thrive on transforming complex concepts and design mockups into seamless, intuitive web solutions.
+I'm a **Senior Web Developer** with 6+ years of experience dedicated to building and optimizing robust, high-performance digital experiences. My specialization lies in crafting accessible, user-centric websites, with a strong focus on static-rendered architectures. I thrive on transforming complex concepts and design mockups into seamless, intuitive web solutions.
 
 ---
 
